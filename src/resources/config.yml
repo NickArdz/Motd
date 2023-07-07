@@ -1,0 +1,8 @@
+# This Motd Is Static But You Can Use %player_online% for players count
+motd: "&fIncreible Server"
+motdStatic: true
+# If motdStatic is false this is used, can use %player_online%
+motdlist:
+  - "&cWho!"
+  - "&cWhoes!"
+infiniteslots: false
